@@ -1,0 +1,17 @@
+{
+	"1": ["GRS-ESI", "index.htm"],
+	"2": ["1. Les états d'une demande de réservation", "les_etats_d_une_demande_de_reservation.htm"],
+	"3": ["2. Guide du profil simple", "guide_du_profil_simple.htm"],
+	"4": ["2.1. Présentation de l'interface", "presentation_de_l_interface.htm"],
+	"5": ["2.2. Guide détaillé de chaque onglet", "guide_detaille_de_chaque_onglet.htm"],
+	"6": ["Réserver", "reserver.htm"],
+	"7": ["Statut de mes réservations", "statut_de_mes_reservations.htm"],
+	"8": ["Acceptées", "acceptees.htm"],
+	"9": ["En attente", "en_attente.htm"],
+	"10": ["Rejetées", "rejetees.htm"],
+	"11": ["Historique des événements", "historique_des_evenements.htm"],
+	"12": ["Notifications", "notifications.htm"],
+	"13": ["Mon profil", "mon_profil.htm"],
+	"14": ["Se déconnecter", "se_deconnecter.htm"],
+	"15": ["2.3. Fiche technique de l'événement", "fiche_technique_de_l_evenement.htm"]
+}

@@ -1,0 +1,45 @@
+    .modal-backdrop {
+        z-index: 0;
+        background: white;
+    }
+
+    .hello {
+    margin-left: 75.985rem;
+}
+#btn{
+    text-align: right;
+}
+    #delete{
+        width: 100%;
+    }
+    #error1{
+        max-width: 100%;
+    }
+#deleteForm{
+    top: -30%;
+}
+#display{
+    top: 20%;
+}
+.alert.alert-with-icon{
+    padding-left: 5px;
+    width: 70%;
+}
+.h5.modal-title{
+    color:#344675;
+    font-size: large;
+}
+#mssg{
+    font-size: medium;
+color: black;
+}
+#debut{
+    font-family: "Poppins", sans-serif;
+    color:  rgba(255, 255, 255, 0.8);;
+    font-size: medium;
+}
+#wsh{
+    max-height: calc(150vh-260px);
+    overflow-y: auto;
+    overflow-x: hidden;
+}

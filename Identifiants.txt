@@ -1,0 +1,12 @@
+voilà des identifiants pour tester
+vous pourrez créer d'autres comptes club avec le compte service
+
+Identifiants club (privilege = 0) 
+E-mail : cse@esi.dz 
+Mdp : club
+E-mail : etic@esi.dz
+Mdp : etic
+
+Identifiant du service (privilege = 1)
+E-mail : service@esi.dz
+Mdp : service

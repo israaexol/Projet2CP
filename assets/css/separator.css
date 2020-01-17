@@ -1,0 +1,7 @@
+.hr-separator {
+    border: 1px solid rgba(227, 227, 227, 0.1);
+    height: 0;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-top-style: none;
+}

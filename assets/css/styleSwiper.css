@@ -1,0 +1,26 @@
+.swiper-container{
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 20px;
+
+}
+.swiper-slide{
+	background-position: center;
+	background-size: cover;
+	width: 340px;
+	height: 750px;
+	background: #FFFFFF;
+	border: 1px solid black;
+	border-radius: 10px;
+}
+.swiper-pagination{
+	padding: 0px;
+}
+.container{
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+.swiper-wrapper{
+	height: 830px;
+	top: 100px;
+}

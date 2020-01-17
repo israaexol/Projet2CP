@@ -1,0 +1,23 @@
+[
+	{ "s": "OBLIGATOIRE", "p": [6] },
+	{ "s": "OBLIGATOIREMENT", "p": [6] },
+	{ "s": "OBLIGATOIRES", "p": [6] },
+	{ "s": "OBTENIR", "p": [8] },
+	{ "s": "OCCASION", "p": [2] },
+	{ "s": "OCCUPAIT", "p": [11, 8] },
+	{ "s": "OCCUPANT", "p": [6] },
+	{ "s": "OCCUPE", "p": [15, 2] },
+	{ "s": "OCCUPÉE", "p": [6] },
+	{ "s": "OCCUPÉES", "p": [9, 6, 2] },
+	{ "s": "OFFICIELLEMENT", "p": [6] },
+	{ "s": "ONGLET", "p": [5, 4] },
+	{ "s": "ONGLETS", "p": [4, 15] },
+	{ "s": "ONT", "p": [2, 4, 15, 9, 12, 8] },
+	{ "s": "OPTIONS", "p": [11] },
+	{ "s": "OPÉRATION", "p": [8, 11] },
+	{ "s": "ORDRE", "p": [10, 9, 8] },
+	{ "s": "OU", "p": [9, 2, 15, 6, 12, 13, 11, 4, 3] },
+	{ "s": "OUBLI", "p": [14] },
+	{ "s": "OUTILS", "p": [15] },
+	{ "s": "OUTILS/BOUTONS", "p": [15] }
+]

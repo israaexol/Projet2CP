@@ -1,0 +1,5 @@
+1553210497.esi._domainkey.reservations-esi.com. IN TXT (
+        "v=DKIM1;t=s;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCvp2PmXIr0CuWLI7o5ghYyX0Gt"
+        "D+S6AUO6g1beFfguS0yZJuF6HjA2GjNztxHJOUDIKUNOPWFHhpv4zLRAtLrRNWm8"
+        "V77XqtM/Qoj3y1Tjh37EQt8K+Vv0B87n1oECAh8LjPsqJubyoCmWhs3RbR8dDICN"
+        "zxlcjkwRZGjoa0OOfwIDAQAB")
